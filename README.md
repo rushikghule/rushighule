@@ -1,6 +1,6 @@
 ### Hi there, I'm Rushikesh 👋
 
-<img src="assets/rushi.gif"></a>
+<img src="asset/rushi.gif"></a>
 
 ## 🚀 About Me
 
