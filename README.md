@@ -37,7 +37,7 @@ I'm passionate about Data Scientist and always eager to learn new things and tec
 You can reach me at 👇
 
 [![Gmail](https://img.shields.io/badge/Gmail-DA1F2?style=for-the-badge&logo=Gmail&logoColor=white)](ghulerushi2103@gmail.com)  
-[![portfolio](https://img.shields.io/badge/my_portfolio-1DA1F2?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/rushikghule)  
+[![portfolio](https://img.shields.io/badge/my_portfolio-1DA1F2?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://github.com/rushikghule](https://rushikghule.github.io/))  
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushikesh-ghule-866287227/)  
 
 
